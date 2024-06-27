@@ -1,0 +1,98 @@
+@import "./variables.sass"
+
+/* BASE STYLE SETTINGS START: */
+
+*
+	padding: 0px
+	margin: 0px
+	box-sizing: border-box
+
+body
+	font-family: var(--font-family-primary)
+	scroll-behavior: smooth
+	-webkit-font-smoothing: antialiased
+
+	overflow-x: hidden
+
+@mixin element_animation
+	transition-timing-function: ease-in-out
+	transition-duration: 0.2s
+
+// ::-webkit-scrollbar 
+// 	width: 5px
+
+// ::-webkit-scrollbar-track 
+// 	background: rgba(128, 128, 128, 0.20)
+
+// ::-webkit-scrollbar-thumb 
+// 	background: var(--color-green-custom)
+
+/* BASE STYLE SETTINGS END. */
+
+
+
+/* WRAPPER STYLE SETTINGS START: */
+
+.wrapper-full
+	width: 100%
+	margin: 0px auto
+	padding: 0px 0px
+
+.wrapper-fix
+	width: 100%
+	max-width: 1440px
+
+	margin: 0px auto
+	padding: 0px 75px
+
+/* WRAPPER STYLE SETTINGS END. */
+
+
+
+/* UI STYLE SETTINGS START: */
+
+/* Buttons style settings start: */
+
+.button
+	@include element_animation
+
+	&__link
+
+	&__secondary-dark
+		&:hover
+
+		&:focus
+
+	&__secondary-light
+		&:hover
+
+		&:focus
+
+	&__primary
+		&:hover
+
+		&:focus
+
+	&__small
+		height: 40px
+		padding: 0px 24px
+
+	&__regular
+		height: 48px
+		padding: 0px 24px
+
+	&__large
+		height: 56px
+		padding: 0px 24px
+
+/* Buttons style settings end. */
+
+/* UI STYLE SETTINGS END. */
+
+
+
+/* HEADER STYLE SETTINGS START: */
+
+// CSS code
+
+/* HEADER STYLE SETTINGS END. */

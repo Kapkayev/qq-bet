@@ -1,0 +1,23 @@
+{
+  "name": "qq-bet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kapkayev Islam",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.27.5",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-less": "^5.0.0",
+    "gulp-sass": "^5.0.0",
+    "sass": "^1.39.0"
+  },
+  "dependencies": {
+    "gulp-connect-php": "^1.0.3",
+    "nouislider": "^15.7.0"
+  }
+}

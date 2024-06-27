@@ -1,0 +1,65 @@
+:root {
+  --font-family-primary: "";
+  --font-family-secondary: "";
+  --font-color-primary: var(--color-white);
+  --font-color-secondary: var(--color-grey);
+  --bg-color: var(--color-dark);
+  --color-white: #FFFFFF;
+  --color-grey: #73747C;
+  --color-black: #000000;
+  --color-dark: #151724;
+}
+
+/* BASE STYLE SETTINGS START: */
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--font-family-primary);
+  scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+}
+
+/* BASE STYLE SETTINGS END. */
+/* WRAPPER STYLE SETTINGS START: */
+.wrapper-full {
+  width: 100%;
+  margin: 0px auto;
+  padding: 0px 0px;
+}
+
+.wrapper-fix {
+  width: 100%;
+  max-width: 1440px;
+  margin: 0px auto;
+  padding: 0px 75px;
+}
+
+/* WRAPPER STYLE SETTINGS END. */
+/* UI STYLE SETTINGS START: */
+/* Buttons style settings start: */
+.button {
+  transition-timing-function: ease-in-out;
+  transition-duration: 0.2s;
+}
+.button__small {
+  height: 40px;
+  padding: 0px 24px;
+}
+.button__regular {
+  height: 48px;
+  padding: 0px 24px;
+}
+.button__large {
+  height: 56px;
+  padding: 0px 24px;
+}
+
+/* Buttons style settings end. */
+/* UI STYLE SETTINGS END. */
+/* HEADER STYLE SETTINGS START: */
+/* HEADER STYLE SETTINGS END. */

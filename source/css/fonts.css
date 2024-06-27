@@ -1,0 +1,140 @@
+@font-face {
+  font-family: "SuisseIntl";
+  src: local("SuisseIntl"), url("../fonts/SuisseIntl/SuisseIntl-Black.otf") format("opentype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: fallback;
+}
+@font-face {
+  font-family: "SuisseIntl";
+  src: local("SuisseIntl"), url("../fonts/SuisseIntl/SuisseIntl-BlackItalic.otf") format("opentype");
+  font-weight: 900;
+  font-style: italic;
+  font-display: fallback;
+}
+@font-face {
+  font-family: "SuisseIntl";
+  src: local("SuisseIntl"), url("../fonts/SuisseIntl/SuisseIntl-Bold.otf") format("opentype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: fallback;
+}
+@font-face {
+  font-family: "SuisseIntl";
+  src: local("SuisseIntl"), url("../fonts/SuisseIntl/SuisseIntl-BoldItalic.otf") format("opentype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: fallback;
+}
+@font-face {
+  font-family: "SuisseIntl";
+  src: local("SuisseIntl"), url("../fonts/SuisseIntl/SuisseIntl-SemiBold.otf") format("opentype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: fallback;
+}
+@font-face {
+  font-family: "SuisseIntl";
+  src: local("SuisseIntl"), url("../fonts/SuisseIntl/SuisseIntl-SemiBoldItalic.otf") format("opentype");
+  font-weight: 600;
+  font-style: italic;
+  font-display: fallback;
+}
+@font-face {
+  font-family: "SuisseIntl";
+  src: local("SuisseIntl"), url("../fonts/SuisseIntl/SuisseIntl-Medium.otf") format("opentype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: fallback;
+}
+@font-face {
+  font-family: "SuisseIntl";
+  src: local("SuisseIntl"), url("../fonts/SuisseIntl/SuisseIntl-MediumItalic.otf") format("opentype");
+  font-weight: 500;
+  font-style: italic;
+  font-display: fallback;
+}
+@font-face {
+  font-family: "SuisseIntl";
+  src: local("SuisseIntl"), url("../fonts/SuisseIntl/SuisseIntl-Regular.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: fallback;
+}
+@font-face {
+  font-family: "SuisseIntl";
+  src: local("SuisseIntl"), url("../fonts/SuisseIntl/SuisseIntl-RegularItalic.otf") format("opentype");
+  font-weight: normal;
+  font-style: italic;
+  font-display: fallback;
+}
+@font-face {
+  font-family: "SuisseIntl";
+  src: local("SuisseIntl"), url("../fonts/SuisseIntl/SuisseIntl-Book.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: fallback;
+}
+@font-face {
+  font-family: "SuisseIntl";
+  src: local("SuisseIntl"), url("../fonts/SuisseIntl/SuisseIntl-BookItalic.otf") format("opentype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: fallback;
+}
+@font-face {
+  font-family: "SuisseIntl";
+  src: local("SuisseIntl"), url("../fonts/SuisseIntl/SuisseIntl-Light.otf") format("opentype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: fallback;
+}
+@font-face {
+  font-family: "SuisseIntl";
+  src: local("SuisseIntl"), url("../fonts/SuisseIntl/SuisseIntl-LightItalic.otf") format("opentype");
+  font-weight: 300;
+  font-style: italic;
+  font-display: fallback;
+}
+@font-face {
+  font-family: "SuisseIntl";
+  src: local("SuisseIntl"), url("../fonts/SuisseIntl/SuisseIntl-Thin.otf") format("opentype");
+  font-weight: 200;
+  font-style: normal;
+  font-display: fallback;
+}
+@font-face {
+  font-family: "SuisseIntl";
+  src: local("SuisseIntl"), url("../fonts/SuisseIntl/SuisseIntl-ThinItalic.otf") format("opentype");
+  font-weight: 200;
+  font-style: italic;
+  font-display: fallback;
+}
+@font-face {
+  font-family: "SuisseIntl";
+  src: local("SuisseIntl"), url("../fonts/SuisseIntl/SuisseIntl-Ultralight.otf") format("opentype");
+  font-weight: 100;
+  font-style: normal;
+  font-display: fallback;
+}
+@font-face {
+  font-family: "SuisseIntl";
+  src: local("SuisseIntl"), url("../fonts/SuisseIntl/SuisseIntl-UltralightItalic.otf") format("opentype");
+  font-weight: 100;
+  font-style: italic;
+  font-display: fallback;
+}
+@font-face {
+  font-family: "HelveticaNeue";
+  src: local("HelveticaNeue"), url("../fonts/HelveticaNeue/HelveticaNeueCyr-Light.otf") format("opentype");
+  font-weight: 100;
+  font-style: normal;
+  font-display: fallback;
+}
+@font-face {
+  font-family: "HelveticaNeue";
+  src: local("HelveticaNeue"), url("../fonts/HelveticaNeue/HelveticaNeueCyr-LightItalic.otf") format("opentype");
+  font-weight: 100;
+  font-style: italic;
+  font-display: fallback;
+}
